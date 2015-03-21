@@ -3,8 +3,8 @@
   "shortName": "Pebble Fit",
   "longName": "Pebble Fit",
   "companyName": "GeorgeMa",
-  "versionCode": 1,
-  "versionLabel": "1.0.0",
+ "versionCode": 1,
+  "versionLabel": "2.0",
   "watchapp": {
     "watchface": false
   },
